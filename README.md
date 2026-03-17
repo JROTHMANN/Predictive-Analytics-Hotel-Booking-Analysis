@@ -1,4 +1,4 @@
-readme_template = '''
+
 # Predicting Hotel Booking Cancellations: Protecting Revenue with Data
 
 **One-line hook:** Analyzing how to predict hotel booking cancellations and help hotels reduce revenue loss from empty rooms.
