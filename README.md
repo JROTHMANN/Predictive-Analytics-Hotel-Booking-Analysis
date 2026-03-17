@@ -24,7 +24,7 @@ This analysis uses a publicly available dataset of 119,390 hotel bookings from a
 
 ![Cancellation Rate by Deposit Type](cancellation_by_deposit.png)
 
-*Bookings with no deposit have dramatically higher cancellation rates, suggesting deposit policies could significantly reduce lost revenue.*
+*Differentiatiny deposit types reults in various outcomes for cancelttions, suggesting deposit policies could be altered to significantly reduce lost revenue.*
 
 ## Prediction Model
 
