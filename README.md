@@ -1,9 +1,3 @@
-
-
-
-
-# Run this cell to display the README template — then copy the printed output
-
 readme_template = '''
 # Predicting Hotel Booking Cancellations: Protecting Revenue with Data
 
