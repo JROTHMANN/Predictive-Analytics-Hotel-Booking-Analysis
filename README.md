@@ -22,7 +22,7 @@ This analysis uses a publicly available dataset of 119,390 hotel bookings from a
 
 ## Visualizing the Story
 
-![Cancellation Rate by Deposit Type](cancellationtype.png)
+![Cancellation Rate by Deposit Type](cancellationtype(2).png)
 
 *Differentiatiny deposit types reults in various outcomes for cancelttions, suggesting deposit policies could be altered to significantly reduce lost revenue.*
 
